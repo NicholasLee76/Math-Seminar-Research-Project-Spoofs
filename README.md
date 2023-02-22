@@ -1,4 +1,4 @@
-# Math-Seminar-Research-Project-Spoofs
+# Math Seminar Research Project: Spoofs
 
 Code for spoof research project
 
